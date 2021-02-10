@@ -1,6 +1,4 @@
 Enfourner pour 10 minutes de cuisson.
-<<<<<<< HEAD
 puis manger
-=======
 bon appétit
->>>>>>> 0dda456579605deb667bc4d367c8bb68eb5f3c17
+
