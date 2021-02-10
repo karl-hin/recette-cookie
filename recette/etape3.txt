@@ -1,0 +1,1 @@
+Ajouter petit à petit la farine mélangée à la levure, le sel et le chocolat.
